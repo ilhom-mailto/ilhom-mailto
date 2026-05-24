@@ -25,8 +25,3 @@ I specialize in building responsive, cross-client, and pixel-perfect email templ
 
 ### 📬 Connect with me
 * 📧 Email: [ilhom.mailto@gmail.com](mailto:ilhom.mailto@gmail.com)
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhom-mailto&show_icons=true&theme=radium&locale=en" alt="My GitHub Stats" />
-</p>
