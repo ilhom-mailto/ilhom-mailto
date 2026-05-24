@@ -25,10 +25,8 @@
 
 ### 📬 Как со мной связаться
 * 📧 Email: [ilhom.mailto@gmail.com](mailto:ilhom.mailto@gmail.com)
-* ✈️ Telegram: [Написать в Telegram](https://t.me/ВАШ_ЮЗЕРНЕЙМ_ТЕЛЕГРАМ) *(замените ссылку на свою)*
-* 💼 LinkedIn: [Мой профиль](ССЫЛКА_НА_LINKEDIN) *(вставьте ссылку)*
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ_GITHUB&show_icons=true&theme=radium" alt="Моя статистика GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhom-mailto&show_icons=true&theme=radium" alt="Моя статистика GitHub" />
 </p>
